@@ -1,0 +1,15 @@
+C:\Users\1\Desktop\Обучение искуственный интелект\Знакомство с языками программирования\Seminar 8\bin\Debug\net6.0\Seminar 8.exe
+C:\Users\1\Desktop\Обучение искуственный интелект\Знакомство с языками программирования\Seminar 8\bin\Debug\net6.0\Seminar 8.deps.json
+C:\Users\1\Desktop\Обучение искуственный интелект\Знакомство с языками программирования\Seminar 8\bin\Debug\net6.0\Seminar 8.runtimeconfig.json
+C:\Users\1\Desktop\Обучение искуственный интелект\Знакомство с языками программирования\Seminar 8\bin\Debug\net6.0\Seminar 8.dll
+C:\Users\1\Desktop\Обучение искуственный интелект\Знакомство с языками программирования\Seminar 8\bin\Debug\net6.0\Seminar 8.pdb
+C:\Users\1\Desktop\Обучение искуственный интелект\Знакомство с языками программирования\Seminar 8\obj\Debug\net6.0\Seminar 8.csproj.AssemblyReference.cache
+C:\Users\1\Desktop\Обучение искуственный интелект\Знакомство с языками программирования\Seminar 8\obj\Debug\net6.0\Seminar 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\Desktop\Обучение искуственный интелект\Знакомство с языками программирования\Seminar 8\obj\Debug\net6.0\Seminar 8.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Обучение искуственный интелект\Знакомство с языками программирования\Seminar 8\obj\Debug\net6.0\Seminar 8.AssemblyInfo.cs
+C:\Users\1\Desktop\Обучение искуственный интелект\Знакомство с языками программирования\Seminar 8\obj\Debug\net6.0\Seminar 8.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Обучение искуственный интелект\Знакомство с языками программирования\Seminar 8\obj\Debug\net6.0\Seminar 8.dll
+C:\Users\1\Desktop\Обучение искуственный интелект\Знакомство с языками программирования\Seminar 8\obj\Debug\net6.0\refint\Seminar 8.dll
+C:\Users\1\Desktop\Обучение искуственный интелект\Знакомство с языками программирования\Seminar 8\obj\Debug\net6.0\Seminar 8.pdb
+C:\Users\1\Desktop\Обучение искуственный интелект\Знакомство с языками программирования\Seminar 8\obj\Debug\net6.0\Seminar 8.genruntimeconfig.cache
+C:\Users\1\Desktop\Обучение искуственный интелект\Знакомство с языками программирования\Seminar 8\obj\Debug\net6.0\ref\Seminar 8.dll
